@@ -3,23 +3,42 @@
   
     
     <entry>
-      <title>Try_new_feature.md</title>
-      <link href="/2018/08/03/try-new-feature-md/"/>
-      <url>/2018/08/03/try-new-feature-md/</url>
-      <content type="html"><![CDATA[]]></content>
+      <title></title>
+      <link href="/2018/08/06/My%20Son&#39;s%20Book/Introduction/"/>
+      <url>/2018/08/06/My%20Son&#39;s%20Book/Introduction/</url>
+      <content type="html"><![CDATA[<p>#Introduction</p><p>##1.1 The Evolution</p><p>There was only a couple of people that had been to outer space, 1.5 dozen of people approximately that had worked more than 10 koras. While millions or even billions of people that had thought of going into the vast expanse of space itself. This book was authorized specially to those that couldn’t go into space, but wants badly. From 1922, the first double-staged rocket was shot. This was a giant leap, I say, while about a thousand years ago, China invented gun powder, which would lead to the invention of rocket bombs, the relationship between were: The later one would be nature, and V-2 rocket would be homo sapiens, and the rocket now would be modern human. To say this, the principles: rotate fuels the motor that spirit for the old nethendrals to Homo sapiens, and the nature would grant the sapiens. The map in the maze to the key of the utmost sontrder of Earth. Now, we had gone through 1/2 of that awful maze from my view while most people say 2/3.Here, I would keep it a mystery while you would find the answer in the book.</p><hr><h2 id=""><a href="#" class="headerlink" title=""></a><img src="/images/3-key-universe-0.1.jpg" alt=""></h2><p>##1.2 The Future<br>In the future, we would make things that could destroy, produce, make-up, play and think. From those which the most special, unattainable, mysterious, and toughest amongst who was thinking. To think, Determines our own gait, and make our earthlians have a future of many dimensions. This was a very MAD thing though it seems normal. It’s that we need to have many positive dimensions instead of negative ones. Another essential point was that if the powerful people are reasonable.<br>Our future fails or success, would be liked greatly to the points above. The Sub-CPU was that not to restrict the children today from what they had intended to do. It’s like a tiger in a cage from birth when it comes out even a wild cat could bring it down, while a uncaged tiger that’s in the wild from birth, would bring down any animal by single to single. How should we help them, we must let the grow!!! Their imaginations were all so equally important.<br>AGAIN, NO RISTRICTION FOR A SUCESSIVE FUTURE THAT’S MULTI-DIMENTIONED.</p><hr><h2 id="-1"><a href="#-1" class="headerlink" title=""></a><img src="/images/3-key-universe-0.2.jpg" alt=""></h2>]]></content>
       
       <categories>
           
-          <category> Misc2 </category>
+          <category> Book </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> Others </tag>
+            <tag> 3 Key-universe </tag>
             
-            <tag> misc2 </tag>
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>3 Key-universe: Contents</title>
+      <link href="/2018/08/06/My%20Son&#39;s%20Book/Contents/"/>
+      <url>/2018/08/06/My%20Son&#39;s%20Book/Contents/</url>
+      <content type="html"><![CDATA[<h1 id="3-Key-universe"><a href="#3-Key-universe" class="headerlink" title="3 Key-universe"></a>3 Key-universe</h1><h2 id="Contents"><a href="#Contents" class="headerlink" title="Contents"></a>Contents</h2><ol start="0"><li><p>Introduction<br>0.1 The evolution<br>0.2 The future<br>0.3 About this book</p></li><li><p>ON EARTH<br>2.1 The discovery<br>2.2 Essays<br>2.3 Set out!<br>2.4 RUMORS!<br>2.5 Buzz-Y!<br>2.6 Engineering</p></li><li><p>SPACE<br>2.1 Exploring<br>2.2 Exploding<br>2.4 Worrying<br>2.5 Buck, up</p></li><li><p>Battle<br>3.1 On Kepler-22b<br>3.2 On KUIPER105796<br>3.3 On Jupiter, on Venus<br>3.4 On Mercury<br>3.5 Inside earth<br>3.6 Vic-ail</p></li><li><p>Go..<br>4.1 Hyper-phonic</p></li><li><p>Explore</p></li></ol><p>Index<br>Glossary<br>After word</p><hr><p><img src="/images/3-key-0-contents.jpg" alt=""></p>]]></content>
+      
+      <categories>
+          
+          <category> Book </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 3 Key-universe </tag>
             
         </tags>
       
@@ -47,29 +66,44 @@
     </entry>
     
     <entry>
-      <title>Hello World</title>
-      <link href="/2018/08/03/hello-world/"/>
-      <url>/2018/08/03/hello-world/</url>
-      <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-      
-      
-    </entry>
-    
-    <entry>
-      <title>My Son&#39;s book - chapter 2</title>
+      <title>3 Key-univers: Chapter 2</title>
       <link href="/2018/07/31/My%20Son&#39;s%20Book/Chapter%202/"/>
       <url>/2018/07/31/My%20Son&#39;s%20Book/Chapter%202/</url>
-      <content type="html"><![CDATA[<p>xxxxxx</p>]]></content>
+      <content type="html"><![CDATA[<p>TBW</p>]]></content>
       
+      <categories>
+          
+          <category> Book </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 3 Key-universe </tag>
+            
+        </tags>
       
     </entry>
     
     <entry>
-      <title>My son&#39;s book - chapter 1</title>
+      <title>3 Key-univers: Chapter 1</title>
       <link href="/2018/07/31/My%20Son&#39;s%20Book/Chapter%201/"/>
       <url>/2018/07/31/My%20Son&#39;s%20Book/Chapter%201/</url>
-      <content type="html"><![CDATA[<p>This is a horrible early morning when the many solders are walking toward the far campus just for watching other teams rehearsing their practice the fast killing within limited time.</p>]]></content>
+      <content type="html"><![CDATA[<p>TBW</p>]]></content>
       
+      <categories>
+          
+          <category> Book </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 3 Key-universe </tag>
+            
+        </tags>
       
     </entry>
     
